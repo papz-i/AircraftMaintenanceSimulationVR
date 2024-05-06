@@ -16,17 +16,17 @@ MonoBehaviour:
   - Default
   - Interactables
   - Interactable Ignore
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - aft_bulkhead_assembly
+  - dowel
+  - forward_bulkhead_assembly
+  - lower_cowling
+  - upper_cowling
+  - propeller
+  - propeller_mounting_bolt
+  - safety_wire
+  - spacer
+  - spinner
+  - washer
   - 
   - 
   - 
